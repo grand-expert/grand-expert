@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grand-expert-real.web.app/sitemap.xml

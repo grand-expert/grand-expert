@@ -1,0 +1,8 @@
+{
+  "name": "Remix Grand-Export Real Estate",
+  "description": "Magaalada iyo Caalamka: Luxury residential villas, prime commercial real estate, seaside penthouses, and diaspora investment properties with Grand-Export Real Estate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

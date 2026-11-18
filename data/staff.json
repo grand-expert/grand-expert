@@ -1,0 +1,52 @@
+[
+  {
+    "id": "staff_101",
+    "name": "System Administrator",
+    "role": "Admin",
+    "email": "ayaanleabdikaadir@gmail.com",
+    "phone": "+252 61 999 0011",
+    "status": "Active",
+    "password": "Ayaanle@456",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "staff_102",
+    "name": "Ayaanle Abdukhadir",
+    "role": "Sub-Admin / Cashier",
+    "email": "ayaanle@alicupa.com",
+    "phone": "+252 61 422 1144",
+    "status": "Active",
+    "password": "password123",
+    "createdAt": "2026-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "staff_103",
+    "name": "Faadumo Maxamed",
+    "role": "Cashier",
+    "email": "cashier@grandexport.com",
+    "phone": "+252 61 555 2233",
+    "status": "Active",
+    "password": "password123",
+    "createdAt": "2026-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "staff_104",
+    "name": "Xasan Jaamac",
+    "role": "Accountant",
+    "email": "accountant@grandexport.com",
+    "phone": "+252 61 777 4455",
+    "status": "Active",
+    "password": "password123",
+    "createdAt": "2026-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "staff_105",
+    "name": "Khadar Cismaan",
+    "role": "Inventory Officer",
+    "email": "inventory@grandexport.com",
+    "phone": "+252 61 888 6677",
+    "status": "Active",
+    "password": "password123",
+    "createdAt": "2026-01-05T00:00:00.000Z"
+  }
+]
